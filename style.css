@@ -1,0 +1,51 @@
+body{background-color: #f2f2f2;}
+
+html{font-family: "Lucida Sans", sans-serif;}
+
+.title{
+    color: #f2f2f2;
+    padding-left: 15px;
+}
+
+h1 h2{
+    color: #252525;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #252525;
+  }
+
+.whiteButton{
+    background-color: #f2f2f2;
+    color: #252525;
+    border-color: #252525;
+}
+
+.whiteButton:active{
+    background-color: #252525;
+    color: #f2f2f2;
+    border-color: #f2f2f2;
+}
+
+.blackButton{
+    background-color: #252525;
+    color: #f2f2f2;
+    border-color: #f2f2f2;
+}
+
+.blackButton:active{
+    background-color: #f2f2f2;
+    color: #252525;
+    border-color: #252525;
+}
+
+button{
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 10px;
+}
